@@ -10,3 +10,7 @@ We did some analyses and bam! Preprocessed of course :)
 ###RESULTS
 ##made some changes as you can see
 #now push it to github and see what happens
+
+
+##Figures
+Yep some figures are here
